@@ -1,0 +1,22 @@
+.horizontal{
+	border-left: 4px double black;
+	border-right: 4px double black;
+}
+.vertical{
+	border-top: 4px double black;
+	border-bottom: 4px double black;
+}
+td{
+	width: 100px;
+	height: 100px;
+	text-align: center;
+}
+.center{
+	margin:auto;
+	margin-top: 20%;
+	text-align: center;
+	
+}
+.header{
+	text-align: center;
+}
